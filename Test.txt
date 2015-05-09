@@ -1,0 +1,9 @@
+public function getDirection($routeno)
+	{
+		$sql_session="SELECT *  FROM  `direction` WHERE  RouteNo='". $routeno."'";
+		$quy_directions=mysql_query($sql_session);
+		$fet_directions=mysql_fetch_array($quy_directions);
+		$this->From=$fet_directions['From'];
+		$this->To=$fet_directions['To'];
+		return $fet_directions;
+	}

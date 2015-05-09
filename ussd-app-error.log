@@ -1,0 +1,208 @@
+[06-May-2015 00:38:04 UTC] PHP Warning:  require(log.php): failed to open stream: No such file or directory in C:\wamp\www\Ideamart\Sample\ussdap.php on line 8
+[06-May-2015 00:38:05 UTC] PHP Stack trace:
+[06-May-2015 00:38:05 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\Sample\ussdap.php:0
+[06-May-2015 00:38:05 UTC] PHP Fatal error:  require(): Failed opening required 'log.php' (include_path='.;C:\php\pear') in C:\wamp\www\Ideamart\Sample\ussdap.php on line 8
+[06-May-2015 00:38:05 UTC] PHP Stack trace:
+[06-May-2015 00:38:05 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\Sample\ussdap.php:0
+[06-May-2015 00:38:42 UTC] PHP Warning:  require(log.php): failed to open stream: No such file or directory in C:\wamp\www\Ideamart\Sample\ussdap.php on line 8
+[06-May-2015 00:38:42 UTC] PHP Stack trace:
+[06-May-2015 00:38:42 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\Sample\ussdap.php:0
+[06-May-2015 00:38:42 UTC] PHP Fatal error:  require(): Failed opening required 'log.php' (include_path='.;C:\php\pear') in C:\wamp\www\Ideamart\Sample\ussdap.php on line 8
+[06-May-2015 00:38:42 UTC] PHP Stack trace:
+[06-May-2015 00:38:42 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\Sample\ussdap.php:0
+[06-May-2015 00:38:53 UTC] PHP Warning:  require(log.php): failed to open stream: No such file or directory in C:\wamp\www\Ideamart\Sample\ussdap.php on line 8
+[06-May-2015 00:38:53 UTC] PHP Stack trace:
+[06-May-2015 00:38:53 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\Sample\ussdap.php:0
+[06-May-2015 00:38:53 UTC] PHP Fatal error:  require(): Failed opening required 'log.php' (include_path='.;C:\php\pear') in C:\wamp\www\Ideamart\Sample\ussdap.php on line 8
+[06-May-2015 00:38:53 UTC] PHP Stack trace:
+[06-May-2015 00:38:53 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\Sample\ussdap.php:0
+[06-May-2015 00:40:59 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in C:\wamp\www\Ideamart\Sample\db.php on line 2
+[06-May-2015 00:40:59 UTC] PHP Stack trace:
+[06-May-2015 00:40:59 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\Sample\ussdap.php:0
+[06-May-2015 00:40:59 UTC] PHP   2. require() C:\wamp\www\Ideamart\Sample\ussdap.php:9
+[06-May-2015 00:40:59 UTC] PHP   3. mysql_connect() C:\wamp\www\Ideamart\Sample\db.php:2
+[06-May-2015 17:58:25 UTC] PHP Notice:  Undefined index: main in C:\wamp\www\Ideamart\BusTime\ussdap.php on line 68
+[06-May-2015 17:58:25 UTC] PHP Stack trace:
+[06-May-2015 17:58:25 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 17:58:35 UTC] PHP Notice:  Undefined index: main in C:\wamp\www\Ideamart\BusTime\ussdap.php on line 68
+[06-May-2015 17:58:35 UTC] PHP Stack trace:
+[06-May-2015 17:58:35 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:36:22 UTC] PHP Notice:  Undefined variable: operations in C:\wamp\www\Ideamart\BusTime\libs\Arrys.php on line 16
+[06-May-2015 18:36:22 UTC] PHP Stack trace:
+[06-May-2015 18:36:22 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:36:22 UTC] PHP   2. Arrays->getArrayDirection() C:\wamp\www\Ideamart\BusTime\ussdap.php:92
+[06-May-2015 18:36:22 UTC] PHP Fatal error:  Call to a member function getDirection() on a non-object in C:\wamp\www\Ideamart\BusTime\libs\Arrys.php on line 16
+[06-May-2015 18:36:22 UTC] PHP Stack trace:
+[06-May-2015 18:36:22 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:36:22 UTC] PHP   2. Arrays->getArrayDirection() C:\wamp\www\Ideamart\BusTime\ussdap.php:92
+[06-May-2015 18:37:07 UTC] PHP Notice:  Undefined variable: operations in C:\wamp\www\Ideamart\BusTime\libs\Arrys.php on line 16
+[06-May-2015 18:37:07 UTC] PHP Stack trace:
+[06-May-2015 18:37:07 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:37:07 UTC] PHP   2. Arrays->getArrayDirection() C:\wamp\www\Ideamart\BusTime\ussdap.php:92
+[06-May-2015 18:37:07 UTC] PHP Fatal error:  Call to a member function getDirection() on a non-object in C:\wamp\www\Ideamart\BusTime\libs\Arrys.php on line 16
+[06-May-2015 18:37:07 UTC] PHP Stack trace:
+[06-May-2015 18:37:07 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:37:07 UTC] PHP   2. Arrays->getArrayDirection() C:\wamp\www\Ideamart\BusTime\ussdap.php:92
+[06-May-2015 18:44:50 UTC] PHP Fatal error:  Class 'Arrays' not found in C:\wamp\www\Ideamart\BusTime\ussdap.php on line 25
+[06-May-2015 18:44:50 UTC] PHP Stack trace:
+[06-May-2015 18:44:50 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:45:05 UTC] PHP Fatal error:  Class 'Arrays' not found in C:\wamp\www\Ideamart\BusTime\ussdap.php on line 25
+[06-May-2015 18:45:05 UTC] PHP Stack trace:
+[06-May-2015 18:45:05 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:45:17 UTC] PHP Fatal error:  Class 'Arrays' not found in C:\wamp\www\Ideamart\BusTime\ussdap.php on line 25
+[06-May-2015 18:45:17 UTC] PHP Stack trace:
+[06-May-2015 18:45:17 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:46:17 UTC] PHP Fatal error:  Call to undefined function getDirection() in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 14
+[06-May-2015 18:46:17 UTC] PHP Stack trace:
+[06-May-2015 18:46:17 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:46:17 UTC] PHP   2. Operations->getArrayDirection() C:\wamp\www\Ideamart\BusTime\ussdap.php:90
+[06-May-2015 18:48:17 UTC] PHP Fatal error:  Call to undefined function getDirection() in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 53
+[06-May-2015 18:48:17 UTC] PHP Stack trace:
+[06-May-2015 18:48:17 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:48:17 UTC] PHP   2. Operations->getArrayDirection() C:\wamp\www\Ideamart\BusTime\ussdap.php:90
+[06-May-2015 18:54:42 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 55
+[06-May-2015 18:54:42 UTC] PHP Stack trace:
+[06-May-2015 18:54:42 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:55:40 UTC] PHP Notice:  Use of undefined constant this - assumed 'this' in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 55
+[06-May-2015 18:55:40 UTC] PHP Stack trace:
+[06-May-2015 18:55:40 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:55:40 UTC] PHP   2. Operations->getArrayDirection() C:\wamp\www\Ideamart\BusTime\ussdap.php:90
+[06-May-2015 18:55:40 UTC] PHP Fatal error:  Call to undefined function getDirection() in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 55
+[06-May-2015 18:55:40 UTC] PHP Stack trace:
+[06-May-2015 18:55:40 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 18:55:40 UTC] PHP   2. Operations->getArrayDirection() C:\wamp\www\Ideamart\BusTime\ussdap.php:90
+[06-May-2015 19:15:13 UTC] PHP Warning:  require(libs/Arrays.php): failed to open stream: No such file or directory in C:\wamp\www\Ideamart\BusTime\ussdap.php on line 7
+[06-May-2015 19:15:13 UTC] PHP Stack trace:
+[06-May-2015 19:15:13 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 19:15:13 UTC] PHP Fatal error:  require(): Failed opening required 'libs/Arrays.php' (include_path='.;C:\php\pear') in C:\wamp\www\Ideamart\BusTime\ussdap.php on line 7
+[06-May-2015 19:15:13 UTC] PHP Stack trace:
+[06-May-2015 19:15:13 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[06-May-2015 20:28:58 UTC] PHP Notice:  Undefined property: Operations::$getArrayBusStops in C:\wamp\www\Ideamart\BusTime\ussdap.php on line 114
+[06-May-2015 20:28:58 UTC] PHP Stack trace:
+[06-May-2015 20:28:58 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:55:44 UTC] PHP Notice:  Undefined property: Operations::$getArrayBusStops in C:\wamp\www\Ideamart\BusTime\ussdap.php on line 114
+[07-May-2015 01:55:44 UTC] PHP Stack trace:
+[07-May-2015 01:55:44 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:57:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:57:47 UTC] PHP Stack trace:
+[07-May-2015 01:57:47 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:57:47 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:57:47 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:67
+[07-May-2015 01:57:47 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 01:57:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:57:47 UTC] PHP Stack trace:
+[07-May-2015 01:57:47 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:57:47 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:57:47 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:68
+[07-May-2015 01:57:47 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 01:57:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:57:47 UTC] PHP Stack trace:
+[07-May-2015 01:57:47 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:57:47 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:57:47 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:69
+[07-May-2015 01:57:47 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 01:57:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:57:47 UTC] PHP Stack trace:
+[07-May-2015 01:57:47 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:57:47 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:57:47 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:70
+[07-May-2015 01:57:47 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 01:57:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:57:47 UTC] PHP Stack trace:
+[07-May-2015 01:57:47 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:57:47 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:57:47 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:71
+[07-May-2015 01:57:47 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 01:57:47 UTC] PHP Notice:  Undefined index: direction in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 75
+[07-May-2015 01:57:47 UTC] PHP Stack trace:
+[07-May-2015 01:57:47 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:57:47 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:59:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:59:25 UTC] PHP Stack trace:
+[07-May-2015 01:59:25 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:59:25 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:59:25 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:67
+[07-May-2015 01:59:25 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 01:59:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:59:25 UTC] PHP Stack trace:
+[07-May-2015 01:59:25 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:59:25 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:59:25 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:68
+[07-May-2015 01:59:25 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 01:59:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:59:25 UTC] PHP Stack trace:
+[07-May-2015 01:59:25 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:59:25 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:59:25 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:69
+[07-May-2015 01:59:25 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 01:59:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:59:25 UTC] PHP Stack trace:
+[07-May-2015 01:59:25 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:59:25 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:59:25 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:70
+[07-May-2015 01:59:25 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 01:59:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 01:59:25 UTC] PHP Stack trace:
+[07-May-2015 01:59:25 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 01:59:25 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 01:59:25 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:71
+[07-May-2015 01:59:25 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 02:02:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 02:02:20 UTC] PHP Stack trace:
+[07-May-2015 02:02:20 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 02:02:20 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 02:02:20 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:67
+[07-May-2015 02:02:20 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 02:02:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 02:02:20 UTC] PHP Stack trace:
+[07-May-2015 02:02:20 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 02:02:20 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 02:02:20 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:68
+[07-May-2015 02:02:20 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 02:02:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 02:02:20 UTC] PHP Stack trace:
+[07-May-2015 02:02:20 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 02:02:20 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 02:02:20 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:69
+[07-May-2015 02:02:20 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 02:02:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 02:02:20 UTC] PHP Stack trace:
+[07-May-2015 02:02:20 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 02:02:21 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 02:02:21 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:70
+[07-May-2015 02:02:21 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 02:02:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 51
+[07-May-2015 02:02:21 UTC] PHP Stack trace:
+[07-May-2015 02:02:21 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 02:02:21 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:114
+[07-May-2015 02:02:21 UTC] PHP   3. Operations->getBusStops() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:71
+[07-May-2015 02:02:21 UTC] PHP   4. mysql_fetch_array() C:\wamp\www\Ideamart\BusTime\class\operationsClass.php:51
+[07-May-2015 02:06:12 UTC] PHP Parse error:  syntax error, unexpected '"` WHERE  BusStopNo='"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 50
+[07-May-2015 02:06:12 UTC] PHP Stack trace:
+[07-May-2015 02:06:12 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 02:06:31 UTC] PHP Parse error:  syntax error, unexpected '"` WHERE  BusStopNo='"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 50
+[07-May-2015 02:06:31 UTC] PHP Stack trace:
+[07-May-2015 02:06:31 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 02:07:46 UTC] PHP Parse error:  syntax error, unexpected '"` WHERE  BusStopNo='"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 50
+[07-May-2015 02:07:46 UTC] PHP Stack trace:
+[07-May-2015 02:07:46 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 02:08:23 UTC] PHP Parse error:  syntax error, unexpected '"' WHERE  BusStopNo='"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 50
+[07-May-2015 02:08:23 UTC] PHP Stack trace:
+[07-May-2015 02:08:23 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 02:08:58 UTC] PHP Parse error:  syntax error, unexpected '"'` WHERE  BusStopNo='"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 50
+[07-May-2015 02:08:58 UTC] PHP Stack trace:
+[07-May-2015 02:08:58 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 06:01:37 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 69
+[07-May-2015 06:01:37 UTC] PHP Stack trace:
+[07-May-2015 06:01:37 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 06:02:26 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 69
+[07-May-2015 06:02:26 UTC] PHP Stack trace:
+[07-May-2015 06:02:26 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 06:07:21 UTC] PHP Notice:  Array to string conversion in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 71
+[07-May-2015 06:07:21 UTC] PHP Stack trace:
+[07-May-2015 06:07:21 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 06:07:21 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:113
+[07-May-2015 06:14:28 UTC] PHP Notice:  Undefined index: BusStopNo in C:\wamp\www\Ideamart\BusTime\class\operationsClass.php on line 71
+[07-May-2015 06:14:28 UTC] PHP Stack trace:
+[07-May-2015 06:14:28 UTC] PHP   1. {main}() C:\wamp\www\Ideamart\BusTime\ussdap.php:0
+[07-May-2015 06:14:28 UTC] PHP   2. Operations->getArrayBusStops() C:\wamp\www\Ideamart\BusTime\ussdap.php:113
